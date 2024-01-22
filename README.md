@@ -1,5 +1,5 @@
 # Ovarian-Cancer-Detection
-Final Project for Data Science Engineering Methods which uses various Data Science concepts and algorithms
+Final Project for the Data Science Engineering Methods which uses various Data Science concepts and algorithms
 <br>
 ## Motivation
 Choosing ovarian cancer as a data science project presents a compelling opportunity to make a meaningful impact on healthcare. Several motivations drive the selection of this project:<br><br>
